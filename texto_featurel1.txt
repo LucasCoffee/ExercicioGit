@@ -1,1 +1,3 @@
 Esse é o texto da featurel 1, onde será unido com o dev
+
+Essa é uma modificação do arquivo feature 1, segundo commit dentro dela.
